@@ -4,4 +4,5 @@
 -- See the kickstart.nvim README for more information
 return {
   { import = 'custom.plugins.configs.nvim-tree' },
+  { import = 'custom.plugins.configs.love2d-nvim' },
 }
